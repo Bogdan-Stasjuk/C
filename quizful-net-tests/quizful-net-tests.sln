@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "define-macros-with-argument", "quizful-net-tests\quizful-net-tests.vcxproj", "{8D2C978D-F3A8-4FD3-B259-D7A8D308B3AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enums", "enums\enums.vcxproj", "{E21A459A-27A3-4DE4-ACF2-EF01D359F002}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structs", "structs\structs.vcxproj", "{ECC797C2-721C-46C0-8A89-35B789C1A5B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "const-pointer", "const-pointer\const-pointer.vcxproj", "{F1958332-D4A1-486C-8A80-FEBA93004324}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arrays-zero-lenght", "arrays-zero-lenght\arrays-zero-lenght.vcxproj", "{BA9C7B84-758B-4DD3-96D4-F488480159E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2C978D-F3A8-4FD3-B259-D7A8D308B3AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D2C978D-F3A8-4FD3-B259-D7A8D308B3AF}.Debug|Win32.Build.0 = Debug|Win32
+		{8D2C978D-F3A8-4FD3-B259-D7A8D308B3AF}.Release|Win32.ActiveCfg = Release|Win32
+		{8D2C978D-F3A8-4FD3-B259-D7A8D308B3AF}.Release|Win32.Build.0 = Release|Win32
+		{E21A459A-27A3-4DE4-ACF2-EF01D359F002}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E21A459A-27A3-4DE4-ACF2-EF01D359F002}.Debug|Win32.Build.0 = Debug|Win32
+		{E21A459A-27A3-4DE4-ACF2-EF01D359F002}.Release|Win32.ActiveCfg = Release|Win32
+		{E21A459A-27A3-4DE4-ACF2-EF01D359F002}.Release|Win32.Build.0 = Release|Win32
+		{ECC797C2-721C-46C0-8A89-35B789C1A5B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECC797C2-721C-46C0-8A89-35B789C1A5B6}.Debug|Win32.Build.0 = Debug|Win32
+		{ECC797C2-721C-46C0-8A89-35B789C1A5B6}.Release|Win32.ActiveCfg = Release|Win32
+		{ECC797C2-721C-46C0-8A89-35B789C1A5B6}.Release|Win32.Build.0 = Release|Win32
+		{F1958332-D4A1-486C-8A80-FEBA93004324}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1958332-D4A1-486C-8A80-FEBA93004324}.Debug|Win32.Build.0 = Debug|Win32
+		{F1958332-D4A1-486C-8A80-FEBA93004324}.Release|Win32.ActiveCfg = Release|Win32
+		{F1958332-D4A1-486C-8A80-FEBA93004324}.Release|Win32.Build.0 = Release|Win32
+		{BA9C7B84-758B-4DD3-96D4-F488480159E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA9C7B84-758B-4DD3-96D4-F488480159E7}.Debug|Win32.Build.0 = Debug|Win32
+		{BA9C7B84-758B-4DD3-96D4-F488480159E7}.Release|Win32.ActiveCfg = Release|Win32
+		{BA9C7B84-758B-4DD3-96D4-F488480159E7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
